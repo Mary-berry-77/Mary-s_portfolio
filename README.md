@@ -19,5 +19,5 @@
 As part of **continuous improvement**, we are revisiting certain aspects of the analysis that could have been more robust.  
 Instead of modifying the original portfolio, we are documenting **missed insights, validation checks, and extended analyses**.
 
-🔍 **[Team Meeting Notes]( )**  
+ **[🔗Team Meeting Notes](https://github.com/Mary-berry-77/-Seoul-Public-Bicycle-Analysis/discussions/1#discussion-8027121)**  
 
