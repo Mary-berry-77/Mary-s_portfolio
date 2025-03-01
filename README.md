@@ -1,10 +1,8 @@
 # Mary's Portfolio
 
 # [Project 1: 🚴 Seoul Public Bicycle Analysis]
-## Seoul Public Bicycle August-September 2024 Breakdown Rate Analysis and 2025 Preparedness Strategy
-
 ---
-
+Seoul Public Bicycle August-September 2024 Breakdown Rate Analysis and 2025 Preparedness Strategy
 [🔗 View Full Project on GitHub](https://github.com/Mary-berry-77/-Seoul-Public-Bicycle-Analysis)
 
 ⚡ TL;DR (Quick Summary)
