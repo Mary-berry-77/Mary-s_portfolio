@@ -1,6 +1,6 @@
 # Mary's Portfolio
 
-# Project 1: 🚴 Seoul Public Bicycle Analysis
+# 🚴 Seoul Public Bicycle Analysis
 ---
 ### 🎯 Seoul Public Bicycle August-September 2024 Breakdown Rate Analysis and 2025 Preparedness Strategy
 
@@ -21,14 +21,14 @@ Instead of modifying the original portfolio, we are documenting **missed insight
 
  **[🔗Team Meeting Notes](https://github.com/Mary-berry-77/Mary-s_portfolio/discussions/1#discussion-8027170)**  
 
-
+---
 ### 🎯 Validation of Sudden Drop in Breakdown Rate – Seoul Public Bicycle, Sep 2023
 
 [🔗 View Full Report on GitHub](https://github.com/Mary-berry-77/2023-09-breakdown-validation/blob/main/README.md)
 
 ⚡ TL;DR (Quick Summary)
 
-- 📉 **Issue Identified:** Unusually low breakdown rate in **September 2023**, compared to other months and 2024.
+- 📉 **Issue Identified:** Unusually low breakdown rate in **September 2023**.
 - 🔎 **Validation Goal:** Determine whether the drop was caused by **data errors or analysis mistakes**.
 - 🧪 **What We Did:**  
   - Reprocessed raw data using the same methods  
