@@ -2,6 +2,15 @@
 
 # 🚴 Seoul Public Bicycle Analysis
 ---
+### 🔄 **Post-Project Review & Iterative Improvements**  
+
+While the core analysis of the project was completed, our team recognized the imporance of **identifying gaps and revisiting the analysis** to improve data reliability and decision-making insights. 
+This section outlines the **retrospective review** and steps we are taking to address limitations.
+
+
+ **[🔗Team Meeting Notes](https://github.com/Mary-berry-77/Mary-s_portfolio/discussions/1#discussion-8027170)**  
+
+---
 ### 🎯 Seoul Public Bicycle August-September 2024 Breakdown Rate Analysis and 2025 Preparedness Strategy
 
 [🔗 View Full Project on GitHub](https://github.com/Mary-berry-77/-Seoul-Public-Bicycle-Analysis)
@@ -14,14 +23,7 @@
 - 📊 **Expected Impact:** Reduce failures by **15%** through proactive maintenance.
 ---
 
-### 🔄 **Ongoing Improvements & Analysis Reviews**  
 
-As part of **continuous improvement**, we are revisiting certain aspects of the analysis that could have been more robust.  
-Instead of modifying the original portfolio, we are documenting **missed insights, validation checks, and extended analyses**.
-
- **[🔗Team Meeting Notes](https://github.com/Mary-berry-77/Mary-s_portfolio/discussions/1#discussion-8027170)**  
-
----
 ### 🎯 Validation of Sudden Drop in Breakdown Rate – Seoul Public Bicycle, Sep 2023
 
 [🔗 View Full Report on GitHub](https://github.com/Mary-berry-77/2023-09-breakdown-validation/blob/main/README.md)
